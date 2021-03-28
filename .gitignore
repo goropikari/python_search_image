@@ -4,3 +4,4 @@ irpb-files
 .cache
 .ipython
 .local
+.jupyter
