@@ -3,8 +3,10 @@
 Pythonではじめる　情報検索プログラミング(ISBN: 978-4-627-81861-3) 用 Docker image
 
 ```bash
+git clone https://github.com/goropikari/python_search_image.git
+cd python_search_image
 bash script/setup.sh  # 本のスクリプト(notebook)をダウンロード
-docker-compose build
+docker-compose pull
 docker-compose up  # 表示される URL にアクセス
 ```
 
