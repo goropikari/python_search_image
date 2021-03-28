@@ -9,6 +9,11 @@ docker-compose up  # 表示される URL にアクセス
 ```
 
 
+日本語Wikipediaで学習したdoc2vecモデル(dmpv300d)
+- https://yag-ays.github.io/project/pretrained_doc2vec_wikipedia/
+
+
+
 Dockerhub に image push
 
 ```bash
